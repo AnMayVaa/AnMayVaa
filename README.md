@@ -60,11 +60,21 @@ Here are some of the technologies I'm working with:
 
 ---
 
-### 🏆 My GitHub Trophies
+### 🔥 My GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnMayVaa&theme=tokyonight" alt="AnMayVaa" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnMayVaa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 📈 My Profile Summary
+
+<p align="center">
+  <a href="https://github.com/t-eo/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnMayVaa&theme=tokyonight" alt="Profile Summary Card" />
   </a>
 </p>
 
