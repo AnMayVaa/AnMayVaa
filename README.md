@@ -60,16 +60,6 @@ Here are some of the technologies I'm working with:
 
 ---
 
-### 🔥 My GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnMayVaa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ### 📈 My Profile Summary
 
 <p align="center">
