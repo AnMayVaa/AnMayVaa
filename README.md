@@ -70,6 +70,16 @@ Here are some of the technologies I'm working with:
 
 ---
 
+### 🏆 My GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnMayVaa&theme=tokyonight&column=7" alt="AnMayVaa" />
+  </a>
+</p>
+
+---
+
 ### 👁️ Visitor Count
 
 <p align="left"> 
