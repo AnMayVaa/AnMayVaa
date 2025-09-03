@@ -92,7 +92,13 @@ Here are some of the technologies I'm working with:
 
 You can find me on:
 
+### 📫 Let's Connect!
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/ohmpatumwan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://www.facebook.com/Ohm.Patumwan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
