@@ -27,37 +27,12 @@
 
 ### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/AnMayVaa/FiceTrack-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnMayVaa&repo=FiceTrack-application&theme=tokyonight" alt="FiceTrack" />
-  </a>
-  <a href="https://github.com/AnMayVaa/esp32-total-evasion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnMayVaa&repo=esp32-total-evasion&theme=tokyonight" alt="Total Evasion" />
-  </a>
-  <br>
-  <a href="https://github.com/AnMayVaa/Digital_DoorLock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnMayVaa&repo=Digital_DoorLock&theme=tokyonight" alt="Digital DoorLock" />
-  </a>
-  <a href="https://github.com/AnMayVaa/reservation-web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnMayVaa&repo=reservation-web-app&theme=tokyonight" alt="Hotel Reservation Web App" />
-  </a>
-  <br>
-  <a href="https://github.com/AnMayVaa/sixseven">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnMayVaa&repo=sixseven&theme=tokyonight" alt="sixseven" />
-  </a>
-  <a href="https://github.com/AnMayVaa/3D-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnMayVaa&repo=3D-scanner&theme=tokyonight" alt="3D Scanner" />
-  </a>
-</p>
-
 - **[FiceTrack](https://github.com/AnMayVaa/FiceTrack-application)** — Flutter app with AI-powered posture analysis to prevent Office Syndrome.
 - **[Total Evasion](https://github.com/AnMayVaa/esp32-total-evasion)** — a survival game for ESP32 + ILI9341 display, simulated on Wokwi.
 - **[Digital DoorLock](https://github.com/AnMayVaa/Digital_DoorLock)** — Next.js door lock simulation with webcam QR scanning and an admin dashboard.
 - **[Reservation Web App](https://github.com/AnMayVaa/reservation-web-app)** — hotel booking app backed by an Ethereum Sepolia smart contract (Next.js 14 + ethers.js).
 - **[sixseven](https://github.com/AnMayVaa/sixseven)** — a hand-wave speed challenge using React, MediaPipe, and Supabase.
 - **[3D Scanner](https://github.com/AnMayVaa/3D-scanner)** — Python-based 3D scanning with an Intel RealSense D435 camera.
-
-*(Tip: pin these same six on your GitHub profile itself — the top-right "Customize your pins" on github.com/AnMayVaa — so they also show up outside this README.)*
 
 ---
 
@@ -131,7 +106,7 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://anmayvaa.github.io" target="_blank">
+  <a href="https://ohmpatumwan.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
